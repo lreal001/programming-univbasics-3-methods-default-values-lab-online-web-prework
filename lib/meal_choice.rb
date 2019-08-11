@@ -7,3 +7,5 @@ end
 
 meal_choice(protein, veg1, veg2)
 
+veg1= broccoli
+veg2= macaroni
