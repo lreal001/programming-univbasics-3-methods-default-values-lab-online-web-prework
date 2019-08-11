@@ -9,5 +9,5 @@ meal_choice(protein=meat, veg1, veg2)
 
 veg1= broccoli
 veg2= macaroni
-meat== tofu
+
 
